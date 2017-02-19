@@ -1,0 +1,19 @@
+{
+  "name": "node_contacts",
+  "version": "1.0.0",
+  "description": "A rest api for storing and retrieving contact information",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/excelsiormante/node_contacts.git"
+  },
+  "author": "Josh Mante",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/excelsiormante/node_contacts/issues"
+  },
+  "homepage": "https://github.com/excelsiormante/node_contacts#readme"
+}
